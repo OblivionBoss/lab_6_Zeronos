@@ -13,7 +13,7 @@ int main(){
         o++;
     }
     }
-    cout << "#Even numbers = " << e << "\n";
-    cout << "#Odd numbers = " << o << "\n";
+    cout << "#Even numbers = " << e-1 << "\n";
+    cout << "#Odd numbers = " << o;
     return 0;
 }
