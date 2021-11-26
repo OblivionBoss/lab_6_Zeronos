@@ -49,5 +49,4 @@ int main(){
     result_vec_direction = rad2deg(atan2(ycomp,xcomp)); 
 
     showResult(result_vec_length,result_vec_direction);
-    return 0;
 }
